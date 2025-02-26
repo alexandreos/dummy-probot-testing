@@ -1,7 +1,6 @@
 enabled_features:
-  - autolabeler
+  - autolabelerx
   - bot-pr-merge
-  - semantic-pull-requests
   - stalebot
   - merge-queue
   - pr-template-validator
