@@ -1,10 +1,4 @@
 enabled_features:
-  - autolabeler
   - bot-pr-merge
-  - stalebot
-  - merge-queue
-  - stale-branch-bot
-  - bot-admin-merge
-  - bot-translation-merge
 merge_user: alexandreos
 admin_users: [alexandreos]
