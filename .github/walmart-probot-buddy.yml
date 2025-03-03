@@ -1,4 +1,5 @@
 enabled_features:
   - bot-pr-merge
+  - pr-approvers
 merge_user: alexandreos
 admin_users: [alexandreos]
